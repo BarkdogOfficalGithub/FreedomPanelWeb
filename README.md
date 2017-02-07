@@ -1,7 +1,7 @@
 #FreedomPanel Web
 
 ##Basic Information
-A web panel for Freedom Servers built for [TotalFreedomMod](https://github.com/TotalFreedom/TotalFreedomMod) and [FreedomPanel](https://github.com/TotalFreedom/FreedomPanel). Built for the [TotalFreedomMC](http://totalfreedom.me) server.
+A web panel for Freedom Servers built for [BarkCraft](https://github.com/BarkCraftMod2d) and [FreedomPanel](https://github.com/superstuffz/FreedomPanel). Built for the [BCNFreedom](http://www.bcnfreedom.github.io) server.
 
 
 ######Incomplete, features may or may not work
